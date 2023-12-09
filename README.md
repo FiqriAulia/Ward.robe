@@ -1,9 +1,9 @@
 ![Project Banner](Banner.png)
-Ward.robe is a "Virtual Closet" website, offering an innovative solution to efficiently and intelligently manage and organize clothing collections. This website is created with the primary goal of providing users with a pleasant and practical experience in managing their everyday clothing inventory.
+ward.robe is a "Virtual Closet" website, offering an innovative solution to efficiently and intelligently manage and organize clothing collections. This website is created with the primary goal of providing users with a pleasant and practical experience in managing their everyday clothing inventory.
 
-With Ward.robe, users can upload, store, and categorize all their clothing items into an easy-to-use application. Sometimes, finding or selecting the right attire can be a confusing task. Therefore, this website was developed to provide a solution that allows users to track all the clothing items they own, mark garments that are in the laundry process, and even provide recommendations for outfit combinations based on the user's clothing inventory.
+With ward.robe, users can upload, store, and categorize all their clothing items into an easy-to-use application. Sometimes, finding or selecting the right attire can be a confusing task. Therefore, this website was developed to provide a solution that allows users to track all the clothing items they own, mark garments that are in the laundry process, and even provide recommendations for outfit combinations based on the user's clothing inventory.
 
-Not only that, but users can also note additional details such as size, brand, and specific notes for each clothing item. Ward.robe is designed to help reduce confusion in choosing daily clothing, optimize the use of clothing collections, and bring joy to the dressing process.
+Not only that, but users can also note additional details such as size, brand, and specific notes for each clothing item. ward.robe is designed to help reduce confusion in choosing daily clothing, optimize the use of clothing collections, and bring joy to the dressing process.
 
 ## Features
 
@@ -27,3 +27,5 @@ Upon entering the landing page, users will be greeted by a sleeping wizard. When
 
 ### DressMe Feature
 - When users run out of ideas for outfit combinations, they can utilize this feature. DressMe suggests combinations consisting of 2 tops, 1 bottom, and 1 accessory.
+
+#### and some easter egg
