@@ -1,7 +1,4 @@
-<div align="center">
-<h1>Ward.robe</h1> 
-</div>
-
+![Project Banner](Banner.png)
 Ward.robe is a "Virtual Closet" website, offering an innovative solution to efficiently and intelligently manage and organize clothing collections. This website is created with the primary goal of providing users with a pleasant and practical experience in managing their everyday clothing inventory.
 
 With Ward.robe, users can upload, store, and categorize all their clothing items into an easy-to-use application. Sometimes, finding or selecting the right attire can be a confusing task. Therefore, this website was developed to provide a solution that allows users to track all the clothing items they own, mark garments that are in the laundry process, and even provide recommendations for outfit combinations based on the user's clothing inventory.
