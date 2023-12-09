@@ -27,5 +27,3 @@ Upon entering the landing page, users will be greeted by a sleeping wizard. When
 
 ### DressMe Feature
 - When users run out of ideas for outfit combinations, they can utilize this feature. DressMe suggests combinations consisting of 2 tops, 1 bottom, and 1 accessory.
-
-Feel free to use this description for your GitHub repository's README to comprehensively explain the functionalities and purpose of the Ward.robe website.
