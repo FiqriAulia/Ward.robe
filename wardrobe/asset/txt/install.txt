@@ -1,0 +1,6 @@
+HALLO
+
+Jangan lupa install dulu dbnya dengan nama wardrobe
+dan check koneksi.php
+
+mantap
