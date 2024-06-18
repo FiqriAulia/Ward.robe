@@ -28,7 +28,7 @@
 <body>
     <div class="egg">
     <?php
-    $encrypted_file = "/asset/txt/DO NOT DELETE.txt";
+    $encrypted_file = "asset/txt/DO NOT DELETE.txt";
     $encrypted_content = file_get_contents($encrypted_file);
     list($iv, $encrypted_text) = explode(':', $encrypted_content);
     $iv = base64_decode($iv);
